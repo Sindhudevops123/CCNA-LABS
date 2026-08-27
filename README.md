@@ -15,4 +15,6 @@ version 1.1 - added git learning notes
 
 dhcp- dynamic host configuration protocol
 
+dns - domain name system
+
 
